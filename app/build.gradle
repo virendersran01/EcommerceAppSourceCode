@@ -90,6 +90,9 @@ dependencies {
     //Google
     implementation 'com.google.android.gms:play-services-auth:17.0.0'
 
+    implementation 'com.github.smarteist:autoimageslider:1.4.0'
+
+
     //Carbon
     api 'tk.zielony:carbon:0.16.0.1'
 }
